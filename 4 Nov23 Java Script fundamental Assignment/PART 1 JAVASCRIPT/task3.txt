@@ -1,0 +1,23 @@
+Unary operators operate on a single operand, that is, they perform an operation on only one value.
+Binary operators operate on two operands, performing a specific operation between them. 
+
+In JavaScript, common unary operators include:-
+Unary addition '(+)'
+Unary subraction '(-)' 
+Increment '(++)' and Decrement '(--)'.
+
+In JavaScript, common binary operators include:-
++, 
+*,
+/, 
+%, 
+==,
+ ===,
+ !=, 
+ !==,
+  >,
+ <, 
+  >= ,
+  <= ,
+ && , 
+ ||.
