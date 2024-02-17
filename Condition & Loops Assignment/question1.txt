@@ -1,0 +1,36 @@
+ JavaScript is a programming language that is commonly used to create interactive and dynamic elements on 
+websites. One of the key features of JavaScript is the ability to use conditional statements to control the flow of 
+a program.
+
+Their are many kind of conditional statements
+1. if
+  syntax-
+  if(condition){
+    statements
+  }
+
+
+
+2. if else 
+syntax-
+if(condition){
+    statements
+}else{
+   else statements
+}
+
+3.  nested if 
+syntax-
+ if(condition){
+    if( condition){
+
+    }
+ }
+
+4. if else if
+
+if (condition){
+
+}else{
+    else condition
+}if(condition)
